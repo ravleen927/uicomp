@@ -9,7 +9,7 @@ To run the Storybook locally and explore the components:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/ravleen927/comp.git
+git clone https://github.com/ravleen927/uicomp.git
 
 2 cd comp
 

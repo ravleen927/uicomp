@@ -11,7 +11,7 @@ To run the Storybook locally and explore the components:
 ```bash
 git clone https://github.com/ravleen927/uicomp.git
 
-2 cd comp
+2 cd uicomp
 
 3 npm install
 
